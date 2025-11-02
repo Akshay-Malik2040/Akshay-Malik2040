@@ -6,7 +6,7 @@
 - 👯 I’m open to **internship or freelance opportunities**
 - 👨‍💻 All of my projects are available here 👉 [GitHub Repositories](https://github.com/Akshay-Malik2040?tab=repositories)
 - 💬 Ask me about **React, JavaScript, and Web Development**
-- 📫 How to reach me: **akshaymalik.dev@gmail.com**
+- 📫 How to reach me: **akshaymalik2040@gmail.com**
 - ⚡ Fun fact: I love building and debugging cool web apps!
 
 ---
